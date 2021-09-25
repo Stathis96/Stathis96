@@ -1,10 +1,10 @@
 ![welcomeheader](https://user-images.githubusercontent.com/56734272/134766499-b73f3503-4120-4580-acad-09499b47e31f.png)
-### Hi there 👋  I'm Stathis Ioannidis, a junior web developer, currently practising my Internship who's passionate with coding nd willing to learn new stuff.
+### Hi there 👋  I'm Stathis Ioannidis, a junior web developer who's passionate with coding and willing to learn new stuff.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/stathis-ioannidis-6399b6217/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=black)](https://www.instagram.com/stathis_iw/)
+<br>
 
-
-- 🔭 I’m currently working as an Intern on ...  <p><a href="https://www.lancom.gr/">➡️ Lancom Ltd</a></p>
+- 🔭 I’m currently working on a paid internship as a web developer at <p><a href="https://www.lancom.gr/">➡️ Lancom Ltd</a></p>
 - 🌱 I’m currently learning ... Vue.js
 - 👯 I’m looking to collaborate on ... Vue.js
 - 💬 Ask me about ... Anything
@@ -35,6 +35,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stathis96&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Stathis96">
+<!-- <a href="https://github.com/Stathis96">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Stathis96&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Stathis's GitHub Stats" />
-</a>
+</a> -->
