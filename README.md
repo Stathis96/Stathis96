@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Stathis's GitHub Banner]![welcomeheader](https://user-images.githubusercontent.com/56734272/134766499-b73f3503-4120-4580-acad-09499b47e31f.png)]
+I'm Stathis Ioannidis
 <!--
 **Stathis96/Stathis96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
