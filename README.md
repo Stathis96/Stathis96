@@ -5,11 +5,11 @@
 <br>
 
 - 🔭 I’m currently working on a paid internship as a web developer at <p><a href="https://www.lancom.gr/">➡️ Lancom Ltd</a></p>
-- 🌱 I’m currently learning ... Vue.js
-- 👯 I’m looking to collaborate on ... Vue.js
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... <a href="mailto: ioannidis.stathis96@gmail.com"><img src="https://img.shields.io/badge/-ioannidis.stathis96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-- 😄 Pronouns: ... He/Him
+- 🌱 I’m currently learning ➡️  Vue.js
+- 👯 I’m looking to collaborate on ➡️  Vue.js
+- 💬 Ask me about ➡️  Anything
+- 📫 How to reach me: ➡️  <a href="mailto: ioannidis.stathis96@gmail.com"><img src="https://img.shields.io/badge/-ioannidis.stathis96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+- 😄 Pronouns: ➡️  He/Him
   
   ### Tools I work with : 🛠
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
