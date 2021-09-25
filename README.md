@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ... Vue.js
 - 👯 I’m looking to collaborate on ... Vue.js
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... <a href="mailto: ioannidis.stathis96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+- 📫 How to reach me: ... <a href="mailto: ioannidis.stathis96@gmail.com"><img src="https://img.shields.io/badge/-ioannidis.stathis96@gmail.com-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 - 😄 Pronouns: ... He/Him
   
   
