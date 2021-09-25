@@ -1,11 +1,10 @@
 ![welcomeheader](https://user-images.githubusercontent.com/56734272/134766499-b73f3503-4120-4580-acad-09499b47e31f.png)
-### Hi there 👋  I'm Stathis Ioannidis, a junior web developer, currently practising my Internship who's passionate with coding
-and willing to learn new stuff.###
+### Hi there 👋  I'm Stathis Ioannidis, a junior web developer, currently practising my Internship who's passionate with coding nd willing to learn new stuff.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/stathis-ioannidis-6399b6217/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=black)](https://www.instagram.com/stathis_iw/)
 
 
-- 🔭 I’m currently working as an Intern on ... Lancom Ltd <p><a href="https://www.lancom.gr/"></a></p>
+- 🔭 I’m currently working as an Intern on ...  <p><a href="https://www.lancom.gr/">➡️ Lancom Ltd</a></p>
 - 🌱 I’m currently learning ... Vue.js
 - 👯 I’m looking to collaborate on ... Vue.js
 - 💬 Ask me about ... Anything
@@ -22,9 +21,9 @@ and willing to learn new stuff.###
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white">
-  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   
