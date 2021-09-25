@@ -1,7 +1,7 @@
-### Hi there 👋
-
 ![welcomeheader](https://user-images.githubusercontent.com/56734272/134766499-b73f3503-4120-4580-acad-09499b47e31f.png)
-I'm Stathis Ioannidis
+### Hi there 👋 I'm Stathis Ioannidis
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/stathis-ioannidis-6399b6217/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=black)](https://www.instagram.com/stathis_iw/)
 <!--
 **Stathis96/Stathis96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
