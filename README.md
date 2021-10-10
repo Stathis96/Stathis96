@@ -34,14 +34,14 @@
 
 <br>
 
-<!-- <a href="https://github.com/Stathis96">
+<a href="https://github.com/Stathis96">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stathis96&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
+</a>
 <!-- <a href="https://github.com/Stathis96">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Stathis96&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Stathis's GitHub Stats" />
 </a> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stathis96&show_icons=true&theme=dark&locale=en&layout=compact" alt="stathis96" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stathis96&show_icons=true&theme=dark&locale=en&layout=compact" alt="stathis96" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stathis96&show_icons=true&theme=dark&locale=en" alt="stathis96" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stathis96&label=Profile%20views&color=0e75b6&style=plastic" alt="stathis96" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stathis96&label=Profile%20views&color=0e75b6&style=plastic" alt="stathis96" /> </p> -->
