@@ -6,7 +6,6 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=black)](https://twitter.com/StathisIoan)
 <br>
 
-- 🔭 I’m currently working on a paid internship as a web developer at <p><a href="https://www.lancom.gr/">➡️ Lancom Ltd</a></p>
 - 🌱 I’m currently learning ➡️  Vue.js
 - 👯 I’m looking to collaborate on ➡️  Vue.js
 - 💬 Ask me about ➡️  Anything
