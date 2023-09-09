@@ -6,6 +6,10 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=black)](https://twitter.com/StathisIoan)
 <br>
 
+--🇬🇷 Greek living in 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland--
+
+🔭 I’m currently working as a fullstack software engineer <p><a href="https://calnexsol.com/">➡️ Calnex Solutions</a></p>
+
 - 🌱 I’m currently learning ➡️  C#
 - 👯 I’m looking to collaborate on ➡️  C#
 - 💬 Ask me about ➡️  Anything
