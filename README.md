@@ -1,7 +1,6 @@
 ![welcomeheader](https://user-images.githubusercontent.com/56734272/134766499-b73f3503-4120-4580-acad-09499b47e31f.png)
 ### Hi there 👋  I'm Stathis Ioannidis, an aspiring software engineer and recent graduate with a strong passion for coding and a relentless appetite for learning. 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/stathis-ioannidis-6399b6217/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=black)](https://www.instagram.com/stathis_io/)
 <br>
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=black)](https://twitter.com/StathisIoan)
 <br>
